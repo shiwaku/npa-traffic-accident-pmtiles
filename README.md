@@ -3,13 +3,13 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/npa-traffic-accident-map-on-maplibre-gl-js/#15/35.92275/139.48775
+- https://shiwaku.github.io/npa-traffic-accident-map-on-maplibre/#15/35.92275/139.48775
 
 ## データの加工方法
 - 2019-2021年
-  - https://github.com/shi-works/npa-traffic-accident-data-converter
+  - https://github.com/shiwaku/npa-traffic-accident-data-converter
 - 2022年
-  - https://github.com/shi-works/npa-traffic-accident-data-2022-converter
+  - https://github.com/shiwaku/npa-traffic-accident-data-2022-converter
 
 ## データ配布
 - PMTiles形式
@@ -34,15 +34,15 @@
 - 本票の属性はそのまま生かしています。
 - ただし、値については、コード表をもとに読みやすい形式に変換しています。
 - 変換プログラム（Python）は、下記のリポジトリを参照してください。
-  - 2019-2021年 https://github.com/shi-works/traffic-accident-data-converter
-  - 2022年 https://github.com/shi-works/traffic-accident-data-2022-converter
+  - 2019-2021年 https://github.com/shiwaku/traffic-accident-data-converter
+  - 2022年 https://github.com/shiwaku/traffic-accident-data-2022-converter
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
   - https://protomaps.github.io/PMTiles/?url=https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.pmtiles#map=8.64/35.6674/139.8287
 
 ## ライセンス
-本データセットは[CC-BY-4.0](https://github.com/shi-works/traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本リポジトリへのリンクを提示してください。
+本データセットは[CC-BY-4.0](https://github.com/shiwaku/traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本リポジトリへのリンクを提示してください。
 
 また、本データセットは交通事故統計情報のオープンデータ（2019年、2020年、2021年、2022年）の本票を加工して作成したものです。本データセットの使用・加工にあたっては、[警察庁Webサイトの利用規約](https://www.npa.go.jp/rules/index.html)を必ずご確認ください。
 
