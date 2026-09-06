@@ -18,22 +18,22 @@
 ## データ配布
 - PMTiles形式
   - 2019-2021年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(206.3MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2021_convert_v2.pmtiles`(206.3MB)
   - 2019-2022年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.pmtiles`(280.8MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2022_convert.pmtiles`(280.8MB)
   - 2019-2023年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.pmtiles`(321.3MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2023_convert.pmtiles`(321.3MB)
   - 2019-2024年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2024_convert.pmtiles`(355MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2024_convert.pmtiles`(355MB)
 - GeoParquet形式
   - 2019-2021年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2021_convert_v2.parquet`(65.8MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2021_convert_v2.parquet`(65.8MB)
   - 2019-2022年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2022_convert.parquet`(94.2MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2022_convert.parquet`(94.2MB)
   - 2019-2023年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2023_convert.parquet`(154.8MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2023_convert.parquet`(154.8MB)
   - 2019-2024年
-    - `https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2024_convert.parquet`(179MB)
+    - `https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2024_convert.parquet`(179MB)
 
 ## ベクトルタイル設計情報
 - 本票そのものを可能な限り生かしたデータです。
@@ -53,7 +53,7 @@
 
 ## PMTiles Viewer
 - PMTilesはPMTiles Viewerで閲覧することができます。
-  - https://protomaps.github.io/PMTiles/?url=https://xs489works.xsrv.jp/pmtiles-data/traffic-accident/honhyo_2019-2024_convert.pmtiles#map=8.64/35.6674/139.8287
+  - https://protomaps.github.io/PMTiles/?url=https://shi-works.com/pmtiles/traffic-accident/honhyo_2019-2024_convert.pmtiles#map=8.64/35.6674/139.8287
 
 ## ライセンス
 本データセットは[CC-BY-4.0](https://github.com/shiwaku/npa-traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本リポジトリへのリンクを提示してください。
